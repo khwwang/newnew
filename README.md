@@ -1,2 +1,2 @@
 # newnew
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+![newnew](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
