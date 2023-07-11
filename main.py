@@ -1,3 +1,3 @@
 print("hello")
 
-exit(1)
+exit(0)
